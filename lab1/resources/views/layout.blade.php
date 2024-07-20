@@ -126,7 +126,7 @@
         <div class="row mb footer spct" style="margin-top: 25px;">
             <div style="display: flex;justify-content: space-between;align-items: center;color: #e57373;">
                 <h1 style="font-size: 1.2vw;">Lab1</h1>
-                <h2 style="font-size: 1vw;margin-right: 15px;">Nguyễn Tài Việt - PH33724 </h2>
+                <h2 style="font-size: 1vw;margin-right: 15px;">Đặng Quốc Huy _Ph39308</h2>
             </div>
         </div>
     </div>
